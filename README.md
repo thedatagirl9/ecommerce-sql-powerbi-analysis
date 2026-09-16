@@ -41,21 +41,14 @@ Beyond basic sums, this project includes a properly calculated **Repeat Purchase
 
 ```
 ![Dashboard Overview](dashboard.png)
+
 ```
 
 ## Tools Used
 
 Google BigQuery (SQL) · Power BI (data modeling, DAX, dashboard design) · Power Query
 
-## Files in This Repository
-
-- `README.md` — this file
-- `queries.sql` — all 6 SQL queries, commented by question
-- `query_results/` — one CSV per business question, raw SQL output
-- `ecommerce_dashboard.pbix` — the Power BI file (if under GitHub's file size limit; otherwise link to the published report instead)
-- `screenshots/` — dashboard images
-
-## Notes / Next Steps
+## Notes
 
 This project focuses on SQL and Power BI.
 
