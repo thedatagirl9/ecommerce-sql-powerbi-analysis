@@ -39,11 +39,8 @@ Beyond basic sums, this project includes a properly calculated **Repeat Purchase
 
 ## Screenshots
 
-*(Add dashboard screenshots here once uploaded)*
-
 ```
-![Dashboard Overview](screenshots/dashboard-overview.png)
-![Delivery Time vs Review Score](screenshots/delivery-vs-review.png)
+![Dashboard Overview](dashboard.png)
 ```
 
 ## Tools Used
