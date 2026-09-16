@@ -39,10 +39,10 @@ Beyond basic sums, this project includes a properly calculated **Repeat Purchase
 
 ## Screenshots
 
-```
+
 ![Dashboard Overview](dashboard.png)
 
-```
+
 
 ## Tools Used
 
